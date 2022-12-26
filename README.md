@@ -13,7 +13,7 @@
 - 반대로 좌측에 있는 아이콘 목록을 클릭했을 때도 지도에 마커가 나타나도록 제작했습니다.
 
 ## 데이터베이스 테이블(DB ERD)
-![서울체크인erd](https://github.com/Jung93/Jung93/issues/2#issue-1510748218)
+![서울체크인erd](https://user-images.githubusercontent.com/105581479/209526510-f81de642-9634-412c-99c3-c17aef82fc18.png)
 
 
 #### 느낀점
